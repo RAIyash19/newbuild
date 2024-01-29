@@ -79,11 +79,11 @@
     <artifactId>spring-boot-starter-mail</artifactId>
 </dependency>
 <!-- Bootstrap CSS -->
-<dependency>
+<!-- <dependency>
     <groupId>org.webjars</groupId>
     <artifactId>bootstrap</artifactId>
     <version>4.6.0</version>
-</dependency>
+</dependency> -->
 
 <!-- Bootstrap JS -->
 <dependency>
@@ -98,11 +98,11 @@
     </exclusions>
 </dependency>
 
-<dependency>
+<!-- <dependency>
     <groupId>org.webjars</groupId>
     <artifactId>jquery</artifactId>
     <version>3.6.0</version>
-</dependency>
+</dependency> -->
 
 
 
