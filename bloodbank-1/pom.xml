@@ -119,7 +119,7 @@
 				<configuration>
 					<archive>
 						<manifest>
-							<mainClass>your.main.class.package.YourMainClass</mainClass>
+							<mainClass>src.main.java.com.example.demo.Bloodbank1Application.java</mainClass>
 						</manifest>
 					</archive>
 				</configuration>
